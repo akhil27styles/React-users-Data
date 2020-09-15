@@ -1,0 +1,11 @@
+.card{
+    width: 35rem;
+    margin-left: 45rem ;
+    margin-top: 30px;
+    }
+ .card-body{
+     margin:0,auto;
+ } 
+ .form-control{
+     margin-left: 2rem;
+ }  
